@@ -13,3 +13,10 @@ https://lapse.hackclub.com/timelapse/YPAaonDyC28P
 Finally, I wired up the ethernet and the camera connectors. I was pretty confused at first regarding the etherned wiring as the references showed differential paris while cubemx had configured something else. But after a quick google search, I came to know that it was because of the RMII setting I had set up in cubemx. I just needed a small chip and a suitable ethernet connector.
 
 https://lapse.hackclub.com/timelapse/z4tXTK4zzKuB
+
+## Day 2
+
+Today was spent on finishing schematics!!!
+I wired up the fan and breakout connectiors for SPI, I2C, UART, and 10 GPIO ports. I also wired the audio input connector and fixed any broken/error-prone connections. We had originally planned on a raspberry pi 4 form-factor board but due to the lack of USB-A ports, it's not feasible at the moment. So, I think we'll go with a raspberry pi zero form-factor but with ethernet capabilities like board.
+
+https://lapse.hackclub.com/timelapse/AY0L5Gldac55
