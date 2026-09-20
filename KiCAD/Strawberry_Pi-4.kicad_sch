@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "89858552-f765-4d34-afef-e1cd1cff7242")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 96.52 38.1)
+		(size 53.34 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6068214f-2995-4d62-86f1-3050a7e7c52b")
+		(property "Sheetname" "Power"
+			(at 96.52 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 96.52 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Strawberry_Pi-4"
+				(path "/89858552-f765-4d34-afef-e1cd1cff7242"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 153.67 38.1)
+		(size 63.5 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "72056592-1af8-4a18-8d15-f3f5bd590a79")
+		(property "Sheetname" "Memory"
+			(at 153.67 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory.kicad_sch"
+			(at 153.67 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Strawberry_Pi-4"
+				(path "/89858552-f765-4d34-afef-e1cd1cff7242"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 88.9)
+		(size 60.96 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8483f2d5-6c09-483a-8024-26bba13e08f5")
+		(property "Sheetname" "Connectors"
+			(at 29.21 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 29.21 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Strawberry_Pi-4"
+				(path "/89858552-f765-4d34-afef-e1cd1cff7242"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 38.1)
+		(size 60.96 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "937b5776-b470-4f90-a421-eebbb27b36e9")
+		(property "Sheetname" "MCU"
+			(at 29.21 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 29.21 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Strawberry_Pi-4"
+				(path "/89858552-f765-4d34-afef-e1cd1cff7242"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

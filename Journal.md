@@ -20,3 +20,20 @@ Today was spent on finishing schematics!!!
 I wired up the fan and breakout connectiors for SPI, I2C, UART, and 10 GPIO ports. I also wired the audio input connector and fixed any broken/error-prone connections. We had originally planned on a raspberry pi 4 form-factor board but due to the lack of USB-A ports, it's not feasible at the moment. So, I think we'll go with a raspberry pi zero form-factor but with ethernet capabilities like board.
 
 https://lapse.hackclub.com/timelapse/AY0L5Gldac55
+
+## Day 3
+
+THE BOARD IS COMPLETE!!! After 3 days of hard work, I finally finished the rpi-4 form factor Strawberry Pi. I have a total of 5 lapse times today. The first one is only 5 mins long bc my laptop decided to die in the middle of work. Here, I was p
+lanning out the board.
+
+https://lapse.hackclub.com/timelapse/ifrvSFvBeYo9
+
+Then, I started work on finalizing sections and also editing any footprint/3d model errors. There were a lot of those for some reason but I fixed it. I planned out the component placements too. It was scary at first because of all the ratsnest lines going all over the board but little by little, I tidied it up to my abilities and it started to take shape.
+
+https://lapse.hackclub.com/timelapse/IUfBVHrY7pCA
+https://lapse.hackclub.com/timelapse/HjVgqjR3aEW2
+
+Finally, I routed the components and added aesthetics to fill in the blank spaces and to make the board a little less empty. Lemme tell you, aesthetics add SOO much personality to a pcb project. Even the pcb routes make the board look pretty. I may not have the prettiest board, but some sections of this pcb are beautiful to me. Thus, I finished the board!
+
+https://lapse.hackclub.com/timelapse/Y_POSmpzjU_k
+https://lapse.hackclub.com/timelapse/AnoPyOCp-v4V
