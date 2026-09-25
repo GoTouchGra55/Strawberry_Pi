@@ -49,6 +49,12 @@ The board provides dedicated:
 - **5 V rail**
 - **3.3 V rail**
 
+## Rough BOM
+1. PCB - $154.23 (JLCPCB)
+2. SMD Resistors - $8.35 (Daraz Nepal)
+3. SMD Capacitors - $7.98 (Daraz Nepal)
+   Total - $170.56
+
 ## Authors 👥
 
 ### Shaurya (Electronics)
